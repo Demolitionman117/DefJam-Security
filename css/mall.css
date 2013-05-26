@@ -1,0 +1,22 @@
+.ball { background-color: #00ff00;} 
+
+.index-b {background-image: url("../img/Security.jpg");
+		 background-repeat: no-repeat;
+		 width: max-width;
+		 height: max-height;
+		 } 
+
+.ram { 
+	   border: 0px solid;
+	   border-radius: 80px; 
+	   }
+
+.farg { background-color:#880000;
+		color:#FFFFFF;} 
+		
+.linje { border-bottom: 1px solid ;
+		margin-top:15px;
+		margin-bottom: 15px;}  
+
+
+
